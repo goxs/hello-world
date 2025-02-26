@@ -1,0 +1,9 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: hello-word-bs
+  description: Find here your demo
+spec:
+  type: website
+  lifecycle: production
+  owner: security-team
